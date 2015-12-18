@@ -1,3 +1,0 @@
-# bless
-bless
-sd
